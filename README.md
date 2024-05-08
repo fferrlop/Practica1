@@ -1,6 +1,8 @@
 Enlace al repositorio:  https://github.com/fferrlop/Practica1.git
 
 
+En este proyecto la manera de ejecutarlo será mediante un .jar, este hará que no tenga la necesidad de compilarse todo el código para esto. Para abrirlo habrá que ir al archivo de su respectiva ubicación y ejecutarlo con oracle. 
+
 En este trabajo, implementando swing para la interfaz, he hecho un programa con el cual se podrán guardar nuevos packages los cuales serán experimentos. 
 Una vez creados estos, se podrán guardar poblaciones de bacterias siguiendo unos datos que pregunta el prógrama.
 Entre las preguntas, unas de ellas serán con respecto a la comida. Tendrás que poner la comida con la que empieza la población, el día hasta la que esta incrementa (y la cantidad a la que incrementa) y finalmente la comida que tendrá en el último día de la prueba.
